@@ -44,11 +44,13 @@ Enter goal location point[x,y](eg: if (5,5), then enter: 115 185): 120 190
 **Test case 1:**
 Start location: 10 10
 Goal location: 115 185
+
 Visualization video: [Test case 1](https://youtu.be/vwKUfesqk9k).
 ![Optimal_path_testcase1](/outputs/Optimal_path_testcase1.png?raw=true)
 
 **Test case 2:**
 Start location: 20 50
 Goal location: 395 245
+
 Visualization video: [Test case 2](https://youtu.be/W2lts-Yb6SI).
 ![Optimal_path_testcase2](/outputs/Optimal_path_testcase2.png?raw=true)
